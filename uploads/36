@@ -1,0 +1,704 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+
+
+
+
+
+
+
+    
+    <head>
+
+
+<!--[if gte IE 7]>
+  <style type="text/css">
+    @import '/etc/designs/cen/iestyle.css';
+  </style>
+<![endif]-->
+
+<!--[if IE 7]>
+  <style type="text/css">
+    @import '/etc/designs/cen/ie7style.css';
+  </style>
+<![endif]-->
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="keywords" content=""/>
+<link type="text/css" rel="stylesheet" href="/etc/designs/cen/ext-all.css"/>
+
+<link type="text/css" rel="stylesheet" href="/etc/designs/cen/js/tablesorter/themes/blue/style.css"/>
+<link rel="stylesheet" type="text/css" href="/etc/designs/cen/jquery.treeview.css"/>
+<link type="text/css" rel="stylesheet" href="/etc/designs/cen/tabs.css"/>
+<link rel="alternate" type="application/rss+xml" title="CEN RSS Feed" href="http://"/>
+<link href="/etc/designs/cen/static.css" rel="stylesheet" type="text/css"/>
+<link href="/etc/designs/cen.css" rel="stylesheet" type="text/css"/>
+
+<!--
+<script type="text/javascript" src="/etc/designs/cen/js/ext-base.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/ext-all.js"></script>
+-->
+<script type="text/javascript" src="/etc/designs/cen/js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/globalUtils.js"></script>
+<script type="text/javascript">
+var environmentProperties = {"sAccount":"achspubcennew,achsglobal","ipAuthURL":"websrv.acs.org","advancedSearchURL":"pubs.acs.org","servers":["wit238.acs.org","wit239.acs.org","wit240.acs.org","wit244.acs.org","wit245.acs.org","cenbeta.acs.org","cen.acs.org"],"webServer":"cen.acs.org","identifier":"Prod"};
+var CENTRAL_SCIENCE_FOLDER = '/var/rss/centralscience';
+var JOBLISTINGS_FOLDER = '/var/rss/joblistings';
+var TABBOX_FOLDER = '/var/statistics/tabbox';
+function correctCollectionsHeight()
+{
+	$(".collections .row").each(function() {
+		var me = $(this);
+		var maxHeight = 0;
+		me.find(".collection").each(function() {
+			if ($(this).height() > maxHeight)
+			{
+				maxHeight = $(this).height();
+			}
+		});
+		me.find(".collection").height(maxHeight);
+	});
+}
+</script>
+
+
+
+<script>
+   
+</script>
+<script type="text/javascript">function trackMVTImpression() {
+    
+    }</script>
+<script src="/etc/designs/cen/js/jquery.cookie.js" type="text/javascript"></script> 
+<script src="/etc/designs/cen/js/jquery.treeview.js" type="text/javascript"></script>  
+<script type="text/javascript" src="/etc/designs/cen/js/outerHTML.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/tablesorter/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/twocol.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/user.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/tabs.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/json_calls.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/mediaUtil.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/restricted-link-transformer.js"></script>
+<script type="text/javascript" src="/etc/designs/cen/js/comment-moderation.js"></script>
+<script type="text/javascript">
+	var cen_root = '/';
+</script>         
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+<script type="text/javascript">
+var cen = {}; 
+cen.root = "/content/cen";
+</script><script type="text/javascript" src="/etc/designs/cen/js/menu.js"></script>
+<title>Login</title>
+
+
+<script type="text/javascript">
+        $(document).ready(function() {
+			json_calls.execute();
+			if ($(".collections").length > 0)
+			{
+				correctCollectionsHeight();
+			}
+            $('a.restricted').addLockIcon();
+            try{
+                if(getCookie('acs-login') == '' && getCookie('ERIGHTS') != ''){
+                    $.ajax({url:"/acs/login",
+                            type: "POST",
+                            data: {username: "erlogin", password: "erlogin" },
+                            async: false
+                    });
+                }
+                ACS.User.getCurrentUser(getCookie('acs-login'));
+                if (ACS.User.isLoggedIn() && !ACS.User.isInstitution()){
+                    $("#logintext").html("Welcome, " + ACS.User.getFirstName() + "!");
+					$("#logintext").css("padding-top","3px");
+                }
+
+				if(ACS.User.isRemembered()){
+					$("#username").val(ACS.User.getUserName());
+				}
+            }
+            catch(e){
+                //alert(e);
+            }
+            if ($(".tablesorter").length > 0)
+            {
+                $(".tablesorter").tablesorter({
+                    sortList: [[0,0]],
+                    widgets: ['zebra'] 
+                }); 
+            }
+        });
+        function changeVisibleLog(logType, newDate)
+        {
+            var parentDiv = "logging_" + logType + "_inner";
+            $("#" + parentDiv + " > div").css('display', 'none');
+            $("#" + logType + "_" + newDate).css('display', 'block');
+        }
+    </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24258338-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+
+
+
+
+
+<body>
+<div id="header_top_container">
+    <!-- html/css to extend colors at the top of the page to the left and right edges -->
+    <div id="color_bars">
+         <div id="left_bar">&nbsp;</div>
+         <div id="right_bar">&nbsp;</div>
+    </div>
+    <div id="header_top_nav">
+        <div id="header_top_nav_links">
+            <a href="http://www.cas.org">CAS</a>
+            <span class="currentHeaderTopNav">C&amp;EN</span>
+            <a href="http://pubs.acs.org">Journals</a>
+            <a href="http://portal.acs.org/portal/acs/corg/content">ACS</a>
+            <span id="logintext"><a href="/signin.html?resource=/signin" title="Login"><img src="/etc/designs/cen/images/lock.png" width="10" height="13"/> Log In</a></span>
+        
+        </div>
+
+    </div>
+</div>
+<div id="body">
+<div class="menu_header menu">
+
+
+
+
+
+<div id="header_container">
+    <div id="header">
+        <div id="header_logo_tagline">
+
+                        <span id="logo">
+                        <a href="/index.html" title=""><img alt="Chemical & Engineering News" src="/etc/designs/cen/images/header_wide_logo.png"/></a>
+					</span>
+                    <span id="tagline">
+                        Serving The Chemical, Life Sciences &amp; Laboratory Worlds
+                    </span>
+        </div>
+        <div id="header_social_links">
+            <!-- reverse order because of float:right -->
+            <a href="/static/about/help.html" class="header_social_links_icons help" title="Help | Chemical & Engineering News"><img src="/etc/designs/cen/images/help.png" width="21" height="21" alt="Help"/></a>
+            <a href="http://www.acs.org/join" class="header_social_links_text">Join ACS</a>
+            <a href="/static/about/contactus.html" class="header_social_links_text" title="Contact C&EN | Chemical & Engineering News">Contact</a>
+            <a href="/static/about/advertise.html" class="header_social_links_text" title="Advertise In C&EN | Chemical & Engineering News">Advertise</a>
+            <a href="/static/about/subscribe.html" class="header_social_links_text" title="Subscribe To C&EN | Chemical & Engineering News">Subscribe</a>
+            <a href="/static/about/rss_feeds.html" class="header_social_links_icons" title="RSS Feeds | Chemical & Engineering News"><img src="/etc/designs/cen/images/icon_rss.png" width="21" height="21" alt="RSS"/></a>
+            <a href="http://twitter.com/cenmag" class="header_social_links_icons"><img src="/etc/designs/cen/images/icon_twitter.png" width="21" height="21" alt="Twitter"/></a>
+            <a href="http://www.facebook.com/CENews" class="header_social_links_icons"><img src="/etc/designs/cen/images/icon_facebook.png" width="21" height="21" alt="Facebook"/></a>
+            <a href="http://cenblog.org" class="header_social_links_icons"><img src="/etc/designs/cen/images/icon_c&en.png" width="21" height="21" alt="CENtral Science"/></a>
+        </div>
+        <div id="header_search">
+            <br/>
+            <form onsubmit="performSearchH(); return false">
+                <input type="text" name="line3" id="line3h" />
+                <div id="header_search_submit">
+                    <input type="submit" value="" /><br />
+                    <a href="http://pubs.acs.org/iapps/wld/cen/search.html">Advanced Search</a>
+                </div>
+            </form>
+            <script>
+                function performSearchH() {
+                    document.location.href = "http://pubs.acs.org/iapps/wld/cen/results.html?line3="+encodeURI(document.getElementById("line3h")?document.getElementById("line3h").value.replace(" ","+"):"");
+                }
+            </script>
+        </div>
+    </div>
+    <div id="header_bottom_nav">
+        <div id="header_bottom_nav_toolbar">
+            <ul class="topnav no_script">
+                <li class="item first"><a href="/index.html" title="Chemical &amp; Engineering News">Home</a></li>
+                <li class="separator">&nbsp;</li>
+                <li class="item">
+                    <a href="/currentIssue.html" title="Current Issue">Magazine</a>
+                    <div class="subnav left">
+
+                        <div class="magazine menu_column">
+
+
+
+		<ul class="column">
+		
+			<li><a href="/currentIssue.html" title="Current Issue">Current Issue</a></li>
+			
+			<li><a href="/magazine.html" title="Back Issues (2010-Present)">Back Issues (2010-Present)</a></li>
+			
+			<li><a href="http://pubs.acs.org/cen/archive/back2009.html" title="Back Issues (2009-1998)">Back Issues (2009-1998)</a></li>
+			
+			<li><a href="/static/about/archives.html" title="C&EN Archives">C&EN Archives</a></li>
+			
+			<li><a href="/static/about/digital.html" title="C&EN Digital Edition">C&EN Digital Edition</a></li>
+			
+			<li><a href="/static/about/mobile.html" title="C&EN Mobile">C&EN Mobile</a></li>
+			
+			<li><a href="/static/about/email_alerts.html" title="Email Alerts">Email Alerts</a></li>
+			
+		</ul>
+		
+
+<div class="clear-div">&nbsp;</div>
+</div>
+
+                    </div>
+                </li>
+                <li class="separator">&nbsp;</li>
+                <li class="item">
+                    <a href="/news.html" title="Latest News">News</a>
+                    <div class="subnav left">
+                        <div class="menu_column news">
+
+
+
+		<ul class="column">
+		
+			<li><a href="/news.html" title="Latest News">Latest News</a></li>
+			
+			<li><a href="/news/anascene.html" title="Analytical SCENE">Analytical SCENE</a></li>
+			
+			<li><a href="/news/bioscene.html" title="Biological SCENE">Biological SCENE</a></li>
+			
+			<li><a href="/news/enviroscene.html" title="Environmental SCENE">Environmental SCENE</a></li>
+			
+			<li><a href="/news/jacscen.html" title="JACS in C&EN">JACS in C&EN</a></li>
+			
+			<li><a href="/news/matscene.html" title="Materials SCENE">Materials SCENE</a></li>
+			
+			<li><a href="/news/nanofocus.html" title="NanoFocus">NanoFocus</a></li>
+			
+		</ul>
+		
+
+<div class="clear-div">&nbsp;</div>
+</div>
+
+                    </div>
+                </li>
+                <li class="separator">&nbsp;</li>
+                <li class="item">
+                    <a href="/departments.html" title="Departments">Departments</a>
+                    <div class="subnav left two">
+                        <div class="menu_column departments">
+
+
+
+		<ul class="column">
+		
+			<li><a href="/departments.html" title="All Departments">All Departments</a></li>
+			
+			<li><a href="/departments/business.html" title="Business">Business</a></li>
+			
+			<li><a href="/departments/government.html" title="Government & Policy">Government & Policy</a></li>
+			
+			<li><a href="/departments/science.html" title="Science & Technology">Science & Technology</a></li>
+			
+			<li><a href="/departments/news.html" title="ACS News">ACS News</a></li>
+			
+			<li><a href="/departments/books.html" title="Books">Books</a></li>
+			
+		</ul>
+		
+		<ul class="column">
+		
+			<li><a href="/departments/employment.html" title="Career & Employment">Career & Employment</a></li>
+			
+			<li><a href="/departments/editors-page.html" title="Editor's Page">Editor's Page</a></li>
+			
+			<li><a href="/departments/education.html" title="Education">Education</a></li>
+			
+			<li><a href="/departments/letters.html" title="Letters">Letters</a></li>
+			
+			<li><a href="/departments/newscripts.html" title="Newscripts">Newscripts</a></li>
+			
+			<li><a href="/collections/notw.html" title="News of the Week">News of the Week</a></li>
+			
+		</ul>
+		
+
+<div class="clear-div">&nbsp;</div>
+</div>
+
+                    </div>
+                </li>
+                <li class="separator">&nbsp;</li>
+                <li class="item">
+                    <a href="/collections.html" title="Collections">Collections</a>
+                    <div class="subnav left two">
+                        <div class="menu_column collections">
+
+
+
+		<ul class="column">
+		
+			<li><a href="/collections/comment.html" title="ACS Comments">ACS Comments</a></li>
+			
+			<li><a href="/collections/ctw.html" title="C&EN Talks With">C&EN Talks With</a></li>
+			
+			<li><a href="/collections/con.html" title="Concentrates">Concentrates</a></li>
+			
+			<li><a href="/collections/iyc2011.html" title="IYC 2011">IYC 2011</a></li>
+			
+			<li><a href="/collections/notw.html" title="News of the Week">News of the Week</a></li>
+			
+		</ul>
+		
+		<ul class="column">
+		
+			<li><a href="/collections/pcp.html" title="Point-Counterpoint">Point-Counterpoint</a></li>
+			
+			<li><a href="/collections/safelet.html" title="Safety Letters">Safety Letters</a></li>
+			
+			<li><a href="/collections/wts.html" title="What's That Stuff">What's That Stuff</a></li>
+			
+			<li><a href="http://pubs.acs.org/cen/reelscience/" title="Reel Science">Reel Science</a></li>
+			
+			<li><a href="/collections.html" title="All Collections">All Collections</a></li>
+			
+		</ul>
+		
+
+<div class="clear-div">&nbsp;</div>
+</div>
+
+                    </div>
+                </li>
+                <li class="separator">&nbsp;</li>
+                <li class="item">
+                    <a href="http://cenblog.org/" title="Blogs">Blogs</a>
+                    <div style="z-index:23000;" class="subnav left two">
+                        <div class="menu_column blogs">
+
+
+
+		<ul class="column">
+		
+			<li><a href="http://cenblog.org" title="CENtral Science">CENtral Science</a></li>
+			
+			<li><a href="http://cenblog.org/cleantech-chemistry" title="Cleantech Chemistry">Cleantech Chemistry</a></li>
+			
+			<li><a href="http://cenblog.org/iyc-2011" title="IYC 2011">IYC 2011</a></li>
+			
+			<li><a href="http://cenblog.org/just-another-electron-pusher" title="Just Another Electron Pusher">Just Another Electron Pusher</a></li>
+			
+			<li><a href="http://cenblog.org/newscripts" title="Newscripts">Newscripts</a></li>
+			
+			<li><a href="http://cenblog.org/terra-sigillata" title="Terra Sigillata">Terra Sigillata</a></li>
+			
+		</ul>
+		
+		<ul class="column">
+		
+			<li><a href="http://cenblog.org/the-chemical-notebook" title="The Chemical Notebook">The Chemical Notebook</a></li>
+			
+			<li><a href="http://cenblog.org/the-editors-blog" title="The Editor's Blog">The Editor's Blog</a></li>
+			
+			<li><a href="http://cenblog.org/the-haystack" title="The Haystack">The Haystack</a></li>
+			
+			<li><a href="http://cenblog.org/the-safety-zone" title="The Safety Zone">The Safety Zone</a></li>
+			
+			<li><a href="http://cenblog.org/transition-states/" title="Transition States">Transition States</a></li>
+			
+		</ul>
+		
+
+<div class="clear-div">&nbsp;</div>
+</div>
+
+                    </div>
+                </li>
+                <li class="separator">&nbsp;</li>
+                <li class="item">
+                    <a href="/media.html" title="Multimedia">Multimedia</a>
+
+                    <div style="z-index:23000;" class="subnav left">
+                        <div>
+                        <div class="multimedia menu_column">
+
+
+
+		<ul class="column">
+		
+			<li><a href="/media.html" title="All Multimedia">All Multimedia</a></li>
+			
+			<li><a href="/media/video.html" title="Videos">Videos</a></li>
+			
+			<li><a href="/media/slide-show.html" title="Photo Galleries">Photo Galleries</a></li>
+			
+			<li><a href="/media/audio.html" title="Audio/Podcasts">Audio/Podcasts</a></li>
+			
+			<li><a href="/media/webinar.html" title="Webinars">Webinars</a></li>
+			
+		</ul>
+		
+
+<div class="clear-div">&nbsp;</div>
+</div>
+
+                            </div>
+                    </div>
+                </li>
+                <li class="separator">&nbsp;</li>
+                <li class="item last">
+                    <a href="/static/about/aboutus.html" title="About Us">About</a>
+                    <div style="z-index:23000;" class="subnav left">
+                        <div>
+                        <div class="menu_column about">
+
+
+
+		<ul class="column">
+		
+			<li><a href="/static/about/aboutus.html" title="About C&EN">About C&EN</a></li>
+			
+			<li><a href="/static/about/staff_landing.html" title="C&EN Staff">C&EN Staff</a></li>
+			
+			<li><a href="/static/about/subscribe.html" title="Subscribe">Subscribe</a></li>
+			
+			<li><a href="/static/about/advertise.html" title="Advertise">Advertise</a></li>
+			
+			<li><a href="/static/about/contactus.html" title="Contact">Contact</a></li>
+			
+			<li><a href="https://portal.acs.org/portal/acs/corg/memberapp?_nfpb=true&_pageLabel=mapp_oma_application" title="Join ACS">Join ACS</a></li>
+			
+			<li><a href="/static/about/help.html" title="Help">Help</a></li>
+			
+		</ul>
+		
+
+<div class="clear-div">&nbsp;</div>
+</div>
+
+                            </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div></div>
+
+
+    <div id="content">
+        <div id="main">
+            <div id="breadcrumbs" class="bottomMargin"> <a href="/index.html" title="">Home</a> > Login </div>
+            <div class="par parsys"><div class="cenlogin section">
+<div id="login" class="bottomMargin">
+    <form id="login_form" action="/acs/login" method="POST">
+                                                     
+      
+        <label>Username</label>
+        <input type="text" id="username" name="username" value="" />
+        <label>Password</label>
+        <input type="password" id="password" name="password" value="" />
+        <input type="hidden" name="resource" value="/content/cen/articles/90/i5/Biofuel-Research-Suffers-Gaps" /> 
+        
+        <a class="forgot_password" href="https://portal.acs.org/portal/acs/corg/memberapp?_nfpb=true&_pageLabel=mapp_forgotpass_page">Forgot Password?</a>
+        <div class="box">
+            <input type="submit" id="submit_login" name="submit_login" value="" />
+        </div>
+    </form>
+    <div id="not_a_member">
+        <img id="login_logo" src="/etc/designs/cen/images/login_acs_for_life.png" width="200" height="68"/>
+        <div class="heading">Not an ACS Member?</div>
+        <p>
+
+            Join the world's largest society for chemical professionals.
+
+        </p>
+        <p>
+
+            Stay up-to-date on the latest scientific and technical information with individual subscriptions to ACS journals and a free subscription to the weekly <span class="italic underline bold">Chemical & Engineering News</span> magazine.  Take charge of your career with continuing education opportunities.  Network with your peers through discipline-specific technical divisions and local sections.  Members have access to career services such as the ACS Careers Jobs Database, resume reviews, and the salary comparator.
+
+        </p>
+        <p>
+
+            ACS welcomes members from across the globe.  Join the ACS community today and enjoy the benefits of membership.
+
+        </p>
+        <a id="join_acs" href="">Join ACS <img src="/etc/designs/cen/images/arrow_right_light_blue.png" width="6" height="9"/>
+    </div>
+</div>
+</div>
+</div>
+
+			
+				<div class="ad_main bottomMargin smaller">
+					<div class="par-ad-p2-728x90 admain">
+
+
+
+		
+
+	<script language='JavaScript' type='text/javascript'>
+if (typeof dcoptTag=='undefined') {dcoptTag='dcopt=ist;';} else {dcoptTag='';}
+if (typeof dc_tile=='undefined') {dc_tile=1;} else {dc_tile++;}
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/c_and_en_online/;pos=2;tile=' + dc_tile + ';;' + dcoptTag + 'sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/c_and_en_online/;pos=2;;sz=728x90;ord=102702090125?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/c_and_en_online/;pos=2;;sz=728x90;ord=102702090125?" width="728" height="90" border="0" alt=""></a>
+</noscript>
+
+</div>
+
+				</div>
+				
+        </div>
+			<div id="right">
+			
+				<div class="ad_right bottomMargin">
+					<div class="par-ad-p1-234x120 admain">
+
+
+
+		
+
+	<script language='JavaScript' type='text/javascript'>
+if (typeof dcoptTag=='undefined') {dcoptTag='dcopt=ist;';} else {dcoptTag='';}
+if (typeof dc_tile=='undefined') {dc_tile=1;} else {dc_tile++;}
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/c_and_en_online/;pos=1;tile=' + dc_tile + ';;' + dcoptTag + 'sz=234x120;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/c_and_en_online/;pos=1;;sz=234x120;ord=102702090125?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/c_and_en_online/;pos=1;;sz=234x120;ord=102702090125?" width="234" height="120" border="0" alt=""></a>
+</noscript>
+
+</div>
+
+				</div>
+            	
+			<div class="parsys par-popular"></div>
+
+			
+            <div class="joblistings">
+
+
+
+<div id="job_listings" class="bottomMargin">
+	<div id="job_listings_heading">
+		Chemistry Job Listings
+	</div>
+	<div class="right_box_content_outer">
+		<div id="job_listings_content">
+			<ul>
+			<li id="last_job" class="link">
+				<a href="http://www.acs.org/careers">Learn More About Jobs</a>
+			</li>
+			</ul>
+		</div>
+	</div>
+</div></div>
+
+            <div class="parsys par-right"></div>
+
+				
+            <div class="ad_right bottomMargin">
+				
+				<div class="par-ad-p2-234x120 admain">
+
+
+
+		
+
+	<script language='JavaScript' type='text/javascript'>
+if (typeof dcoptTag=='undefined') {dcoptTag='dcopt=ist;';} else {dcoptTag='';}
+if (typeof dc_tile=='undefined') {dc_tile=1;} else {dc_tile++;}
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/c_and_en_online/;pos=2;tile=' + dc_tile + ';;' + dcoptTag + 'sz=234x120;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/c_and_en_online/;pos=2;;sz=234x120;ord=102702090125?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/c_and_en_online/;pos=2;;sz=234x120;ord=102702090125?" width="234" height="120" border="0" alt=""></a>
+</noscript>
+
+</div>
+
+				
+            </div>
+				
+            <div class="parsys par-right2"></div>
+
+			
+        </div>
+        <div id="footer">
+            <div id="cen_footer_links">
+                <div class="heading">Chemical &amp; Engineering News</div>
+                <ul class="footer_links_column">
+                    <li><a href="/index.html" title="">Home</a></li>
+                    <li><a href="/currentIssue.html" title="">Magazine</a></li>
+                    <li><a href="/news.html" title="Latest News">News</a></li>
+                    <li><a href="/departments.html" title="Departments">Departments</a></li>
+                    <li><a href="/collections.html" title="Collections">Collections</a></li>
+                    <li><a href="http://cenblog.org">Blogs</a></li>
+                    <li><a href="/media.html" title="Multimedia Landing Page">Multimedia</a></li>	
+                    <li><a href="/static/about.html" title="About Us">About</a></li>
+                </ul>
+                <ul class="footer_links_column">
+                    <li><a href="/static/about/subscribe.html" title="Subscribe To C&EN | Chemical & Engineering News">Subscribe</a></li>
+                    <li><a href="/static/about/advertise.html" title="Advertise In C&EN | Chemical & Engineering News">Advertise</a></li>
+                    <li><a href="/static/about/contactus.html" title="Contact C&EN | Chemical & Engineering News">Contact</a></li>
+                    <li><a href="http://www.acs.org/join">Join ACS</a></li> 
+                    <li id="footer_social_links">
+                        <a href="http://cenblog.org" class="header_social_links_icons"><img src="/etc/designs/cen/images/icon_c&en.png" width="21" height="21" alt="CENtral Science"/></a>
+                        <a href="http://www.facebook.com/CENews" class="header_social_links_icons" target="_blank"><img src="/etc/designs/cen/images/icon_facebook.png" width="21" height="21" alt="Facebook"/></a>
+                        <a href="http://twitter.com/cenmag" class="header_social_links_icons" target="_blank"><img src="/etc/designs/cen/images/icon_twitter.png" width="21" height="21" alt="Twitter"/></a>
+                        <a href="/static/about/rss_feeds.html" class="header_social_links_icons" title="RSS Feeds | Chemical & Engineering News"><img src="/etc/designs/cen/images/icon_rss.png" width="21" height="21" alt="RSS"/></a>
+                    </li>
+                </ul>
+                <ul class="footer_links_column noMargin">
+                    <li><a href="/static/about/help.html" title="Help | Chemical & Engineering News">Help</a></li>
+					<li><a href="/sitemap.html" title="">Sitemap</a></li>
+                    <li id="footer_search">
+                        <form> 
+                            <input type="text" name="line3" id="line3f" />
+                            <div id="footer_search_submit">
+                                <input type="submit" onClick="performSearchF(); return false;" value="" /><br />
+                                <a href="http://pubs.acs.org/iapps/wld/cen/search.html">Advanced Search</a>
+                            </div>
+                        </form> 
+                        <script>
+                        function performSearchF() {
+                            document.location.href = "http://pubs.acs.org/iapps/wld/cen/results.html?line3="+encodeURI(document.getElementById("line3f")?document.getElementById("line3f").value.replace(" ","+"):""); 
+                        } 
+                        </script> 
+                    </li>
+                </ul>
+            </div>
+            <div id="acs_footer_links">
+                <div class="heading">American Chemical Society</div>
+                <ul class="footer_links_column">
+                    <li><a href="http://portal.acs.org/portal/acs/corg/content">ACS.org</a></li>
+                    <li><a href="http://pubs.acs.org">Journals</a></li>
+                    <li><a href="http://www.cas.org">CAS</a></li>
+                </ul>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+</div>
+<div id="layout_footer">
+    <div id="copyright">
+        Copyright &copy;2011 American Chemical Society
+    </div>
+</div>
+</body>
+
+</html>

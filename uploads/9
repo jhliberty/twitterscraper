@@ -1,0 +1,839 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:v="http://rdf.data-vocabulary.org/#"
+  xmlns:schema="http://schema.org/">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="fb:page_id" content="147484638982" />
+<meta name="keywords" content="Selling a Home, homestaging, interior design, Real Estate, Homebuyer, mortgage" />
+<meta name="description" content="In today&#039;s tough economy, no where in history that I can remember, are more people opting to start home based businesses. It&#039;s flexible and you get to spend mor" />
+<link rel="shortcut icon" href="http://cdn2-b.examiner.com/sites/all/themes/base/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="image_src" href="http://cdn2-b.examiner.com/sites/default/files/styles/image_social_thumbnail/hash/5d/46/New%20Picture%20%281%29_11.png" />
+<meta property="og:site_name" content="Examiner.com" />
+<meta property="og:type" content="article" />
+<meta property="fb:admins" content="" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="fb:app_id" content="113003962065478" />
+<meta property="og:image" content="http://cdn2-b.examiner.com/sites/default/files/styles/image_social_thumbnail/hash/5d/46/New%20Picture%20%281%29_11.png" />
+<meta property="og:title" content="Another Home-Based Business Idea: If You Have the Eye" />
+<meta property="og:url" content="http://www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea" />
+  <title>Another Home-Based Business Idea: If You Have the Eye - New York home-based business | Examiner.com</title>
+  <style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/all/themes/framework/styles/normalize.css?lygui4");
+@import url("http://cdn2-b.examiner.com/modules/system/system.base.css?lygui4");
+@import url("http://cdn2-b.examiner.com/modules/system/system.messages.css?lygui4");</style>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/modules/comment/comment.css?lygui4");
+@import url("http://cdn2-b.examiner.com/modules/field/theme/field.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/all/modules/contrib/mollom/mollom.css?lygui4");
+@import url("http://cdn2-b.examiner.com/modules/node/node.css?lygui4");
+@import url("http://cdn2-b.examiner.com/modules/user/user.css?lygui4");</style>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/all/modules/contrib/twitter_pull/twitter-pull-listing.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/all/modules/custom/ex_upload/ex_upload.css?lygui4");</style>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.layout.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.skin.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.typography.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.blocks.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.forms.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.buttons.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.overlay.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/core/node/node.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/contrib/fivestar/fivestar.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/contrib/achievements/achievements.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/contrib/masquerade/masquerade.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_taxonomy/ex_taxonomy_superchannel.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_dart/ex_dart.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_user/ex_user.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_blocks/ex_blocks.footer.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_blocks/ex_blocks.menu.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_blocks/ex_blocks.twitter.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_blocks/ex_blocks.my-tools.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_blocks/ex_blocks.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_carousel/ex_carousel.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_comment/ex_comment.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_dart/ex_dart.traffic-cop.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_homepage/ex_homepage.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_reuters/ex_reuters.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_sitemaps/ex_sitemaps.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_upload/ex_upload.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_activity/ex_activity.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_featured/ex_featured.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_article/ex_article.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_title/ex_title.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_weather/ex_weather.theme.css?lygui4");</style>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_place_picker/ex_place_picker.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_profile/ex_profile.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_insider_deals/ex_insider_deals.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_taxonomy/ex_taxonomy.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_super_channel/ex_super_channel.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_place/ex_place.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/multivote_poll/multivote_poll.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_contextual/ex_contextual.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/localcom/localcom.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_content/ex_content.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/special_projects/america_inspired/ai.theme.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.content.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.print-preview.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/reset.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/layout.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/corners.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/buttons.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/sprite.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/forms.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/typography.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/misc.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/blocks.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/content.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/article.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/comment.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/user-profiles.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/edition-homepages.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/temp.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/nodes.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/node-media.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/node-form-page.css?lygui4");</style>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/replacements.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/fivestar.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/mvt_breadcrumb/style-control.css?lygui4");</style>
+<style type="text/css" media="print">@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.print.css?lygui4");</style>
+
+<!--[if lte ie 9]>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.ie-lte9.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_article/ex_article.lte-ie9.css?lygui4");</style>
+<![endif]-->
+
+<!--[if lte ie 8]>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.ie-lte8.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_blocks/ex_blocks.ie-lte8.css?lygui4");</style>
+<![endif]-->
+
+<!--[if lte ie 7]>
+<style type="text/css" media="all">@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/styles/x2.ie-lte7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_blocks/ex_blocks.ie-lte7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_carousel/ex_carousel.lte-ie7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_homepage/ex_homepage.ie-lte7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_article/ex_article.lte-ie7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_upload/ex_upload.lte-ie7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_custom_rss/ex_custom_rss.ie-lte7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/custom/ex_taxonomy/ex_taxonomy.ie-lte7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/overrides/contrib/achievements/achievements.lte-ie7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/x2/special_projects/america_inspired/ai.ie-lte7.css?lygui4");
+@import url("http://cdn2-b.examiner.com/sites/default/files/less/sites/all/themes/base/css/ie-lte7.css?lygui4");</style>
+<![endif]-->
+  <script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_oHGYD_bi7TFEkwWrzTidk9LFXKRcvG-IVbZK3KYEii4_179.js"></script>
+<script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_sr8nBBumABSbRTdafqc9izRmonLKskDehweeWr4ZZQY_179.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$LAB.script("http:\/\/beacon.examiner.com\/header.js?guid=fdvpzEfqaVvQdfPbQhhbe8%252FyfNeyTpqXJQ4L%252F57rSf4EGyXQMydrZ2tKGkr6uzS3H116gkrOi9ATqADFl4BRvNNm2aEhZrl0OKtmPTyFpVxjtlMTVE09PWTTgp2tOL2P");
+var _os={"account":"examinercom","server":"stats.examiner.com","secureServer":"sstats.examiner.com","namespace":"examinercom","zip":null};
+_os.s = {
+	pageName:"Examiner Article",
+	channel:"Careers & Workplace",
+	server:"192.168.1.55",
+	pageType:"",
+	prop1:"Jobs",
+	prop2:"",
+	prop3:"",
+	prop4:"ARTICLE EXENTRY:42755906",
+	prop5:"Another Home-Based Business Idea: If You Have the Eye",
+	prop6:"Michelle Hughes-Heyward",
+	prop7:"EXID:28792 NY Home-based Business Examiner",
+	prop8:"EXID:28792",
+	prop9:11,
+	prop10:"Dallas",
+	prop11:"New York",
+	prop12:"story",
+	prop13:"y2012m01d29",
+	prop14:"home-based business",
+	prop15:"",
+	prop16:"",
+	prop17:"",
+	prop18:"",
+	prop19:"",
+	prop20:"",
+	prop21:"",
+	prop22:"NY Home-based Business Examiner",
+	prop23:"New York:Careers & Workplace:Jobs:another home-based business idea: if you have the eye",
+	prop24:"1049016",
+	prop25:"New York",
+	prop29:"not-newsworthy",
+	prop30:"2009\/11\/03",
+	prop31:"",
+	prop32:"Selling a Home:homestaging:interior design:Real Estate:Homebuyer:mortgage",
+	hier1:"New York:Careers & Workplace:Jobs:home-based business",
+	campaign:"",
+	eVar1:"",
+	eVar2:"",
+	eVar3:"",
+	eVar4:"ARTICLE EXENTRY:42755906",
+	eVar5:"Dallas",
+	eVar6:"New York",
+	eVar7:"",
+	eVar8:"",
+	eVar9:"",
+	eVar10:"",
+	eVar11:"",
+	eVar12:"",
+	eVar13:"",
+	eVar14:"",
+	eVar15:"",
+	eVar16:"",
+	eVar17:"",
+	eVar18:"",
+	eVar19:"",
+	eVar20:"",
+	eVar21:"",
+	eVar22:"",
+	eVar23:"",
+	eVar24:"",
+	eVar25:"",
+	eVar26:"",
+	eVar27:"",
+	eVar28:"",
+	eVar29:"",
+	eVar30:"",
+	events:"event4,event15,event5"
+};
+$LAB.script("http:\/\/cdn2-b.examiner.com\/sites\/all\/modules\/custom\/ex_omniture\/s_code.js?v=lygui4").wait(function () {_os.copyVars();s.t();});
+var _comscore = _comscore || []; _comscoreData = {"c1":2,"c2":6036472,"options":{"url_append":"comscorekw=CareersWorkplace"}}; _comscore.push(_comscoreData);
+$LAB.script("http:\/\/b.scorecardresearch.com\/\/beacon.js").wait(function () {COMSCORE.data = _comscoreData;});
+var _gaq = _gaq || []; _gaq.push(["_setAccount","UA-18147775-1"]);
+_gaq.push(["_setDomainName",".examiner.com"]);
+_gaq.push(["_trackEvent","Examiner-Page-Type","Article-Page","Quality"]);
+_gaq.push(["_trackEvent","Examiner-Articles","Michelle Hughes-Heyward","Another Home-Based Business Idea: If You Have the Eye"]);
+_gaq.push(["_setCustomVar",1,"Site-Section","Careers & Workplace",3]);
+_gaq.push(["_trackEvent","Site-Section","Careers & Workplace","Jobs"]);
+_gaq.push(["_setCustomVar",3,"Examiner-Views","EXID:28792",3]);
+_gaq.push(["_setCustomVar",2,"Edition-Name","New York",2]);
+_gaq.push(["_trackEvent","Examiner-Views","EXID:28792","Another Home-Based Business Idea: If You Have the Eye"]);
+_gaq.push(["_trackEvent","Examiner-Tags","Selling a Home","Article"]);
+_gaq.push(["_trackEvent","Examiner-Tags","homestaging","Article"]);
+_gaq.push(["_trackEvent","Examiner-Tags","interior design","Article"]);
+_gaq.push(["_trackEvent","Examiner-Tags","Real Estate","Article"]);
+_gaq.push(["_trackEvent","Examiner-Tags","Homebuyer","Article"]);
+_gaq.push(["_trackEvent","Examiner-Tags","mortgage","Article"]);
+_gaq.push(["_trackPageview"]);
+;
+$LAB.script("http:\/\/www.google-analytics.com\/ga.js");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_ipvpitwGV3clYV62CEqZsZGII8MZ1BNs4eGO9KcRqLw_179.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gwoe = {"x":"","a":""};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_Uuhmm53Hsv2yN76y2cnfCOziGLIWs558MMWnCaV6ePg_179.js"></script>
+</head>
+
+<body class="html not-front not-logged-in page-node page-node- page-node-42755906 node-type-story has-superchannel sc-home-life node-42755906 two-sidebars theme-mvt-breadcrumb" >
+  <div id="skip-link" class="element-invisible">
+    <a href="#main-content">Skip to main content</a>
+  </div>
+    <div class="page" id="page">
+  <div id="top-bar">
+    <div class="limiter">
+      <div id="background-logo"></div>
+        <div class="region region-top-bar">
+    <div id="block-ex_taxonomy-location_primary" class="block block-ex-taxonomy block-overflow place-dallas block-fancy block-odd aside first">
+          <div class="shadow-after"></div><div class="shadow-before"></div>  
+  <div class="block-content">
+    We think you're near <a href="http://www.examiner.com/location/preferred?destination=home-based-business-in-new-york/another-home-based-business-idea">Dallas</a>  </div>
+
+  </div>
+
+<div id="block-ex_weather-ex_weather" class="block block-ex-weather block-even aside">
+        <h2 class="element-invisible clearfix block-title">
+      Currently in Dallas    </h2>
+    
+  <div class="block-content-plain block-content clearfix">
+    <span class="location weather-element">
+  <span class="element-invisible">Location:</span> Dallas</span>
+<span class="current-temperature weather-element">
+  <span class="element-invisible">Current temperature:</span> 48&#176;<span class="element-invisible">F:</span> </span>
+<span class="current-condition weather-icon clear">
+  <span class="element-invisible">Current condition:</span> Clear</span>
+<a href="http://weather.examiner.com/cgi-bin/findweather/getForecast?query=75201" target="_blank">See Extended Forecast</a>  </div>
+
+  </div>
+
+  </div>
+    </div>
+  </div>
+
+  <div id="header">
+    <div class="limiter">
+      <div class="content">
+        <a href="http://www.examiner.com/" target="_top" rel="home" title="Home" class="site-name sprite-oqw ocmap ocm-logo">Examiner.com</a>          <div class="region region-search-form">
+    <div id="block-ex_search-ex_searchbox" class="block block-ex-search block-even aside">
+      
+  <div class="block-content">
+    <form action="http://www.examiner.com/search/google" id="cse-search-box">
+  <div>
+  <input type="text" class="main-search sprite-oqw" name="query" value="" size="38" title="Search this site" />
+  <input type="hidden" name="cx" value="partner-pub-7479725245717969:9ze01gmnpyp" />
+  <input type="hidden" name="cof" value="FORID:9" />
+  <input type="hidden" name="ie" value="ISO-8859-1" />
+  <input class="search-button sprite-oqw ocmap ocm-search form-submit" type="submit" id="edit-search-form-submit" name="sa" value="Search" />  </div>
+</form>
+  </div>
+
+  </div>
+
+  </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="navigation" class="nav clearfix">
+    <div class="limiter clearfix">
+      <div class="secondary-links"><ul id="secondary" class="links"><li class="menu-1481 first"><a href="http://www.examiner.com/user/login" class="ocmap ocm-login">Log in</a></li>
+<li class="join last"><a href="http://www.examiner.com/user/register">Sign up</a></li>
+</ul>
+</div>        <div class="region region-navigation">
+    <div id="block-ex_taxonomy-channel-menu" class="block block-ex-taxonomy block-odd aside">
+      
+  <div class="block-content">
+    <div class="channel-menu">
+<ul id="primary" class="clearfix"><li class="collapsed nav-home nav-home-life first"><a href="http://www.examiner.com/home-life">Home &amp; Life</a></li><li class="collapsed expandable nav-family-education"><a href="http://www.examiner.com/family-and-education">Family &amp; Education</a><ul class="sub-navigation"><li class="first"><a href="http://www.examiner.com/parenting-issues">Parenting Issues</a></li><li><a href="http://www.examiner.com/single-parenting">Single Parenting</a></li><li><a href="http://www.examiner.com/stayathome-parents">Stay-at-Home Parents</a></li><li><a href="http://www.examiner.com/child-safety">Child Safety</a></li><li><a href="http://www.examiner.com/toys-games-and-gear">Toys, Games &amp; Gear</a></li><li><a href="http://www.examiner.com/charter-schools">Charter Schools</a></li><li><a href="http://www.examiner.com/private-schools">Private Schools</a></li><li><a href="http://www.examiner.com/public-schools">Public Schools</a></li><li class="last"><a href="http://www.examiner.com/higher-education">Higher Education</a></li></ul></li><li class="collapsed expandable nav-careers"><a href="http://www.examiner.com/tag/careers">Careers</a><ul class="sub-navigation"><li class="first"><a href="http://www.examiner.com/jobs">Jobs</a></li><li class="last"><a href="http://www.examiner.com/unemployment">Unemployment</a></li></ul></li><li class="collapsed expandable nav-health-fitness"><a href="http://www.examiner.com/health-and-fitness">Health &amp; Fitness</a><ul class="sub-navigation"><li class="first"><a href="http://www.examiner.com/mens-health">Men&#039;s Health</a></li><li><a href="http://www.examiner.com/womens-health">Women&#039;s Health</a></li><li><a href="http://www.examiner.com/childrens-health">Children&#039;s Health</a></li><li><a href="http://www.examiner.com/healthcare">Healthcare</a></li><li><a href="http://www.examiner.com/holistic-health">Holistic Health</a></li><li><a href="http://www.examiner.com/nutrition">Nutrition</a></li><li><a href="http://www.examiner.com/weight-loss-and-dieting">Weight Loss &amp; Dieting</a></li><li><a href="http://www.examiner.com/yoga-and-pilates">Yoga &amp; Pilates</a></li><li class="last"><a href="http://www.examiner.com/fitness-and-exercise">Fitness &amp; Exercise</a></li></ul></li><li class="collapsed expandable nav-household"><a href="http://www.examiner.com/household">Household</a><ul class="sub-navigation"><li class="first"><a href="http://www.examiner.com/gardening">Gardening</a></li><li><a href="http://www.examiner.com/tag/green-living">Green Living</a></li><li class="last"><a href="http://www.examiner.com/sales-and-deals">Sales &amp; Deals</a></li></ul></li><li class="collapsed expandable nav-pets"><a href="http://www.examiner.com/pets">Pets</a><ul class="sub-navigation"><li class="first"><a href="http://www.examiner.com/dogs">Dogs</a></li><li><a href="http://www.examiner.com/cats">Cats</a></li><li><a href="http://www.examiner.com/other-pets">Other Pets</a></li><li class="last"><a href="http://www.examiner.com/pet-health">Pet Health</a></li></ul></li><li class="collapsed nav-more last"><a href="http://www.examiner.com/more-topics">More</a></li></ul></div>
+  </div>
+
+  </div>
+
+  </div>
+      <div class="shadow"></div>
+      <div class="shadow-before"></div>
+      <div class="shadow-after"></div>
+    </div>
+  </div>
+
+  <div id="main" class="clearfix">
+    <div class="limiter clearfix">
+
+              <div id="masthead">
+            <div class="region region-masthead">
+    <div class="block-no-margin block block-ex-dart block-even aside" id="block-ex_dart-ex_dart_header_ad">
+      
+  <div class="block-content-wrapper">
+    <div class="dart-ad dart-ad-728x90" id="dart-ad-1-1-855499965">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/cw/pos1/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=1;pos=1;sz=728x90,950x60;kw=;dcopt=ist;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/cw/pos1/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=1;pos=1;sz=728x90,950x60;kw=;dcopt=ist;ord=855499965?" width="728" height="90" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/cw\/pos1\/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=1;pos=1;sz=728x90,950x60;kw=;dcopt=ist;ord=");
+  </script>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+        </div>
+      
+              <div id="flank">
+            <div class="region region-flank">
+    <div id="block-ex_blocks-become-an-examiner" class="block block-ex-blocks block-even aside">
+      
+  <div class="block-content">
+    <a href="http://www.examiner.com/About_Examiner">Become an examiner</a>  </div>
+
+  </div>
+
+  </div>
+        </div>
+      
+      <div id="content-wrapper" class="clearfix">
+
+        
+        
+        <div class="section clearfix" id="page-content">
+          
+          <div id="content" class="clearfix">
+                          <div id="content-top-region" class="clearfix">
+                              </div>
+            
+            
+            
+            
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd clearfix">
+      
+  <div class="block-content-wrapper">
+    <div about="/home-based-business-in-new-york/another-home-based-business-idea" typeof="schema:NewsArticle sioc:Item foaf:Document" id="node-42755906" class="node node-story node-promoted mode-full node-odd hentry node-full">
+  <div class="node-content-wrapper">
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+utmx_replace("breadcrumb", {"variation_wrapper":" id=\"mvt-breadcrumb\"","created":"January 30, 2012","channel":"<a href=\"\/tag\/careers-and-workplace\">Careers &amp; Workplace<\/a>","subchannel":"<a href=\"\/jobs\">Jobs<\/a>","primary_tag":"<a href=\"\/tag\/selling-a-home\">Selling a Home<\/a>"});
+//--><!]]>
+</script>
+    <div  id="mvt-breadcrumb" class="breadcrumb">
+  <a href="/tag/careers-and-workplace">Careers &amp; Workplace</a> | January 30, 2012</div>
+    </noscript>         <div class="node-title-wrapper">
+            <h1 property="schema:name dc:title" datatype="" class="entry-title">Another Home-Based Business Idea: If You Have the Eye</h1>
+      
+          </div>
+
+    <ul class="inline comment-edit-links"><li class="comment first last active"><a href="/home-based-business-in-new-york/another-home-based-business-idea#comments" class="button-alt button-tail active">Add a comment</a></li></ul>    
+<div class="byline">
+  <div rdftype="foaf:Person v:Person" class="ex-title">
+    <a href="/homebased-business-in-new-york/michelle-hughes-heyward" class="user-picture"><img typeof="foaf:Image" src="http://cdn2-b.examiner.com/sites/default/files/styles/profile_large/hash/b0/41/b04148ccdbb3caa9db6946076ec364e7.JPG" width="80" height="75" alt="Michelle Hughes-Heyward&amp;#039;s photo" /></a><div class="name"><a href="/homebased-business-in-new-york/michelle-hughes-heyward" class="username ocmap ocm-name" title="View Michelle Hughes-Heyward&amp;#039;s profile." property="foaf:name" about="/user-eboniaye" rel="author">Michelle Hughes-Heyward</a></div><div class="examiner-title"><span property="rdfs:label skos:prefLabel v:title">NY Home-based Business Examiner</span>
+</div><div class="subscribe">+ <a href="http://www.examiner.com/user/1049016/1791736/subscribe?render=overlay" class="overlay catch">Subscribe</a></div>  </div>
+
+</div>
+    <div class="node-links node-links-top clearfix"></div>
+    <div id="share-links" class="share-links"><ul class="vertical"><li class="facebook first"><a href="http://www.facebook.com/sharer.php?u=http%3A//www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea&amp;t=Another%20Home-Based%20Business%20Idea%3A%20If%20You%20Have%20the%20Eye" class="button sharer st_facebook_vcount" title="Share on Facebook">Facebook</a></li><li class="twitter"><a href="http://twitter.com/intent/tweet?text=Another%20Home-Based%20Business%20Idea%3A%20If%20You%20Have%20the%20Eye&amp;url=http%3A//www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea&amp;via=examinercom" class="button sharer st_twitter_vcount">Tweet</a></li><li class="plusone"><span class="sharer st_plusone_vcount" data-displayText="Share"> </span></li><li class="linkedin"><span class="sharer st_linkedin_vcount" data-displayText="Share"> </span></li><li class="stumbleupon"><span class="sharer st_stumbleupon_vcount" data-displayText="Submit" title="Submit to StumbleUpon"> </span></li><li class="reddit"><a href="http://www.reddit.com/submit?url=http%3A//www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea" class="button sharer st_reddit_vcount" data-displayText="reddit">Reddit</a></li><li class="print active"><a href="/home-based-business-in-new-york/another-home-based-business-idea?render=print#print" rel="print" class="button active">Print</a></li><li class="forward last"><a href="/node/42755906/forward?render=overlay" rel="nofollow" class="overlay button catch" title="Email this article">Email</a></li></ul><ul class="horizontal clearfix"><li class="facebook first"><a href="http://www.facebook.com/sharer.php?u=http%3A//www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea&amp;t=Another%20Home-Based%20Business%20Idea%3A%20If%20You%20Have%20the%20Eye" class="button sharer st_facebook_button" title="Share on Facebook">Facebook</a></li><li class="twitter"><a href="http://twitter.com/intent/tweet?text=Another%20Home-Based%20Business%20Idea%3A%20If%20You%20Have%20the%20Eye&amp;url=http%3A//www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea&amp;via=examinercom" class="button sharer st_twitter_button">Tweet</a></li><li class="plusone"><span class="sharer st_plusone_button" data-displayText="Share"> </span></li><li class="linkedin"><span class="sharer st_linkedin_button" data-displayText="Share"> </span></li><li class="stumbleupon"><span class="sharer st_stumbleupon_button" data-displayText="StumbleUpon" title="Submit to StumbleUpon"> </span></li><li class="reddit"><a href="http://www.reddit.com/submit?url=http%3A//www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea" class="button sharer st_reddit_button" data-displayText="reddit">Reddit</a></li><li class="print active"><a href="/home-based-business-in-new-york/another-home-based-business-idea?render=print#print" rel="print" class="button active">Print</a></li><li class="forward last"><a href="/node/42755906/forward?render=overlay" rel="nofollow" class="overlay button catch" title="Email this article">Email</a></li></ul></div>
+          <div class="node-content clearfix">
+        <div class="has-sidebar">
+    
+                    <div class="clearfix entry-content">
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden field-bundle-story entry-body" class="field field-name-body field-type-text-with-summary field-label-hidden field-bundle-story entry-body"><div class="field-items" class="field-items"><div class="field-item even" property="schema:articleBody content:encoded"><p>In today's tough economy, no where in history that I can remember, are more people opting to start home based businesses. It's flexible and you get to spend more time with your family. You can devote&nbsp;the time&nbsp;you&nbsp;feel is sufficient to propel your business. The benefits go on and on. There are pitfalls to this too, but I am writing on how to get your home based business started.</p>
+<p>There is an idea that floated in my head some time ago, because I like to make things pretty.&nbsp;An elegant idea for all you entrepreneurs out there is starting a Home Staging Business.&nbsp;You are helping homeowners, real estate agents, and potential buyers into choosing a home that speaks to them. One of those ways a home speaks to a potential buyer is how it is presented. If you have the eye for colors, patterns, and&nbsp;so on, you can become a home stager. There are no licenses or degrees you need to become one. But, you should prepare yourself and get help where needed.</p>
+<p>We all have watched those shows on HGTV about staging and how important it is.&nbsp;There are many homes on the market that wound up staying on the market for a very long time (hard sell). I believe it is because it is not staged properly, especially when the occupants are still living there. As a home stager, you will charge the homeowners approximately 10% of the income they make in selling their house. That is almost the equivalent amount real estate agents receive, give or take depending on the state you live in.&nbsp;</p><div class="dart-ad dart-ad-300x250" id="dart-ad-3-3-202039346">
+    <span class="dart-ad-title">Advertisement</span>
+  <div class="dart-ad-content">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/cw/pos3/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=3;pos=3;sz=300x250;kw=;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/cw/pos3/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=3;pos=3;sz=300x250;kw=;ord=855499965?" width="300" height="250" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/cw\/pos3\/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=3;pos=3;sz=300x250;kw=;ord=");
+  </script>
+      </div>
+  </div>
+
+<p>For a moderate amount of money, purchase yourself some furniture, that you can buy at&nbsp;local consignment&nbsp;shops or Goodwill stores.&nbsp;Consignment shops are usually where interior designers sell or give away their unused or used staging furniture. It usually is in top condition and you can get it for a steal. The same goes for Goodwill stores. You may have to sand and stain the furniture again, but you will save&nbsp;money for the piece you purchase.</p>
+<p>To check out some sites and companies that stage homes,&nbsp;you can visit: <a href="http://www.iahsp.com" rel="nofollow">http://www.iahsp.com</a>, it stands for International Association of Home Staging Professionals. For a homestaging startup business package you can go to <a href="http://www.homestagingsuccess.com" rel="nofollow">http://www.homestagingsuccess.com</a>. You can also&nbsp;study at home&nbsp;and earn a certification in homestaging.&nbsp;Just go to <a href="http://www.homestaginginstitute.com" rel="nofollow">http://www.homestaginginstitute.com</a>. Remember, staging is important, so is your name. Be diligent, trustworthy and true to your word. Having a good to great reputation will take you&nbsp;farther in the business and make you more successful.</p>
+<p>Hope this information helps. Good luck!</p>
+<p>If you would like to leave a comment or suggestion, email me at <a href="mailto:eboniaye@hotmail.com" rel="nofollow">mailto:eboniaye@hotmail.com</a>.</p>
+<p>**Subscribe, like, follow, tweet, and RSS my articles**</p>
+</div></div></div>          </div>
+          
+            </div>
+        <div id="content-sidebar">
+            <div class="region region-content-sidebar">
+    <div id="block-ex_upload-content-photos" class="block block-ex-upload block-merge-above block-odd aside">
+      
+  <div class="block-padding-thin block-content">
+    <div class="field field-name-image field-type-image field-label-hidden field-bundle-photo entry-media" class="field field-name-image field-type-image field-label-hidden field-bundle-photo entry-media"><div class="field-items" class="field-items"><div class="field-item even"><a href="/home-based-business-in-new-york/successful-staging-equals-successful-selling-photo" class="ocmap ocm-main-photo"><img typeof="foaf:Image" src="http://cdn2-b.examiner.com/sites/default/files/styles/large/hash/5d/46/New%20Picture%20%281%29_11.png" width="210" height="141" alt="I Can See Myself Living Here." title="Successful staging equals successful selling. " /></a></div></div></div>I Can See Myself Living Here.<div class="field field-name-image-credits field-type-text field-label-inline clearfix field-bundle-photo" class="field field-name-image-credits field-type-text field-label-inline clearfix field-bundle-photo"><div class="field-label" class="field-label">Credits:&nbsp;</div><div class="field-items" class="field-items"><div class="field-item even">Picture: Microsoft Clip Art</div></div></div>  </div>
+
+  </div>
+
+<div id="block-ex_article-article-page-tags" class="block block-ex-article block-even aside">
+        <h2 class="clearfix block-title">
+      Related Topics    </h2>
+    
+  <div class="block-content-plain block-content">
+    <ul class="links related-topics-list"><li class="0 first"><span class="oqw-arrow-bullet sprite-oqw"></span>
+<a href="/tag/selling-a-home" class="primary-tag" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Selling a Home</a></li>
+<li class="1"><span class="oqw-arrow-bullet sprite-oqw"></span>
+<a href="/tag/homestaging" class="secondary-tags" typeof="skos:Concept" property="rdfs:label skos:prefLabel">homestaging</a></li>
+<li class="2"><span class="oqw-arrow-bullet sprite-oqw"></span>
+<a href="/tag/interior-design" class="secondary-tags" typeof="skos:Concept" property="rdfs:label skos:prefLabel">interior design</a></li>
+<li class="3"><span class="oqw-arrow-bullet sprite-oqw"></span>
+<a href="/tag/real-estate" class="secondary-tags" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Real Estate</a></li>
+<li class="4"><span class="oqw-arrow-bullet sprite-oqw"></span>
+<a href="/tag/homebuyer" class="secondary-tags" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Homebuyer</a></li>
+<li class="5 last"><span class="oqw-arrow-bullet sprite-oqw"></span>
+<a href="/tag/mortgage" class="secondary-tags" typeof="skos:Concept" property="rdfs:label skos:prefLabel">mortgage</a></li>
+</ul>  </div>
+
+  </div>
+
+  </div>
+        </div>
+      </div>
+    
+    
+          <div class="content-banner">
+        <div class="clearfix dart-line-unit">
+  <script type="text/javascript">
+  var google_ad_client = "pub-7479725245717969",
+      google_ad_slot = "8833985956",
+      google_ad_width = 590,
+      google_ad_height = 15;
+  </script>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<div class="dart-ad dart-ad-620x250" id="dart-ad-5-5-202039346">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=5;pos=5;sz=620x250;kw=;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=5;pos=5;sz=620x250;kw=;ord=855499965?" width="620" height="250" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=5;pos=5;sz=620x250;kw=;ord=");
+  </script>
+    </div>
+      </div>
+    
+    <div class="node-footer-links">
+      <div class="node-links clearfix"><ul class="links inline"><li class="abuse-report first"><a href="/abuse/report/node/42755906?render=overlay" class="flag-content button overlay" title="Report and surface objectionable content with this button." rel="nofollow">Report</a></li><li class="print active"><a href="/home-based-business-in-new-york/another-home-based-business-idea?render=print#print" rel="print" class="button active">Print</a></li><li class="forward last"><a href="/node/42755906/forward?render=overlay" rel="nofollow" class="overlay button catch" title="Email this article">Email</a></li></ul></div>    </div>
+
+          <div xml:lang="" id="node-author" class="ex-title ex-profile-with-profile-picture profile-id-1049016 clearfix">
+  <div class="profile">
+    <a href="/homebased-business-in-new-york/michelle-hughes-heyward" class="profile-picture ocmap ocm-photo"><img typeof="foaf:Image" src="http://cdn2-b.examiner.com/sites/default/files/styles/profile_large/hash/b0/41/b04148ccdbb3caa9db6946076ec364e7.JPG" width="80" height="75" alt="" /></a>    <a href="/homebased-business-in-new-york/michelle-hughes-heyward" class="ocmap ocm-bio_link">Read full bio</a>  </div>
+
+  <ul class="author-links"><li class="subscribe first"><a href="/user/1049016/1791736/subscribe?render=overlay" class="overlay catch ocmap ocm-newsletter"><span class="oqw-author-mail sprite-oqw"></span>
+Get my newsletter</a></li><li class="twitter"><a href="http://twitter.com/Michelles Care " class="ocmap ocm-twitter"><span class="oqw-author-twitter sprite-oqw"></span>
+Follow me on Twitter</a></li><li class="feed"><a href="/user/1049016/1791736/feed" class="ocmap ocm-rss"><span class="oqw-author-rss sprite-oqw"></span>
+Get my RSS feed</a></li><li class="apply last"><a href="http://www.examiner.com/About_Examiner?cid=article" class="ocmap ocm-become_examiner"><span class="oqw-author-apply sprite-oqw"></span>
+Become an Examiner</a></li></ul>
+  <div class="author-description clearfix">
+    <h3 property="foaf:name" datatype="" about="/user-eboniaye">
+      By <a href="/homebased-business-in-new-york/michelle-hughes-heyward" class="ocmap ocm-name" rel="author">Michelle Hughes-Heyward</a>    </h3>
+    <strong typeof="skos:Concept" property="rdfs:label skos:prefLabel v:title" class="author-title">NY Home-based Business Examiner</strong>
+
+    <p>Michelle lives in Bronx, NY with her cat Mufasa. She has a licensed home-based childcare service. Michelle is also an Independent Consultant for...</p>
+  </div>
+</div>
+    
+    
+    
+              <div id="comments" class="comment-wrapper facebook-comments"><h2 class="comments">Comments</h2>
+<fb:comments migrated="1" canpost="true" showform="true" callbackurl="http://www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea?fb_comment=42755906" href="http://www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea" changeurl="http://www.examiner.com/node/42755906/fbcomment" returnurl="http://www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea?fb_comment=42755906" xid="node_42755906" width="620" class="fb-comments"></fb:comments></div>    
+  </div>
+
+  </div>
+  </div>
+
+  </div>
+
+<div id="fb-root"></div>  </div>
+
+            
+                      </div>
+        </div>
+
+                  <div id="sidebar" class="sidebar section">
+              <div class="region region-sidebar">
+    <div id="block-ex_article-ex_article_next_article" class="block block-ex-article block-even aside clearfix">
+        <h2 class="block-has-image clearfix block-title">
+      <a href="/business-networking-in-hartford/tips-to-keep-curb-appeal-when-selling-a-home-the-fall-and-winter-months?cid=PROD-redesign-right-next" class="next-article-link" title="Tips to keep curb appeal when selling a home in the fall and winter months">Next article »</a>    </h2>
+    
+  <div class="block-content-plain hentry block-has-image block-content">
+    <a href="/business-networking-in-hartford/tips-to-keep-curb-appeal-when-selling-a-home-the-fall-and-winter-months?cid=PROD-redesign-right-next" class="entry-image"><img class="image-frame" typeof="foaf:Image" src="http://cdn2-b.examiner.com/sites/default/files/styles/medium/hash/75/df/sold_1.jpg" alt="" title="" /></a><a href="/business-networking-in-hartford/tips-to-keep-curb-appeal-when-selling-a-home-the-fall-and-winter-months?cid=PROD-redesign-right-next" class="next-article-link">Tips to keep curb appeal when selling a home in the fall and winter months</a>  </div>
+
+  </div>
+
+<div id="block-ex_dart-ex_dart_sidebar_ad_middle_node" class="block block-ex-dart block-odd aside clearfix">
+      
+  <div class="block-content">
+    <div class="dart-ad dart-ad-300x220" id="dart-ad-8-8-855499965">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=8;pos=8;sz=300x220;kw=;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=8;pos=8;sz=300x220;kw=;ord=855499965?" width="300" height="220" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=8;pos=8;sz=300x220;kw=;ord=");
+  </script>
+    </div>
+  </div>
+
+  </div>
+
+<div id="block-ex_dart-ex_dart_sidebar_ad_block_top" class="block block-ex-dart block-even aside clearfix">
+      
+  <div class="block-content">
+    <div class="dart-ad dart-ad-300x250" id="dart-ad-2-2-855499965">
+    <div class="dart-ad-title dart-ad-title-sponsor"><a href="http://www.examiner.com/Advertise?etid=28792">Your ad here</a>Advertisement</div>
+  <div class="dart-ad-content">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/cw/pos2/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=2;pos=2;sz=300x250,300x600;kw=;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/cw/pos2/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=2;pos=2;sz=300x250,300x600;kw=;ord=855499965?" width="300" height="250" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/cw\/pos2\/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=2;pos=2;sz=300x250,300x600;kw=;ord=");
+  </script>
+      </div>
+  </div>
+  </div>
+
+  </div>
+
+<div id="block-localcom-livingsocial-ads" class="block block-localcom livingsocial-ad block-even aside clearfix">
+  <span class="oqw-livingsocial sprite-oqw"></span>
+      <h2 class="clearfix block-title">
+      Daily Deal for <em class="placeholder">Dallas</em>    </h2>
+    
+  <div class="clearfix block-content">
+    
+<a href="http://www.livingsocial.com/cities/11-dallas/deals/218774-hour-long-family-photo-session-with-a-25-image-dvd?ref=exmn&amp;aff_id=3220&amp;offer_id=4" class="discount" target="_blank">61% off</a><div class="info clearfix"><a href="http://www.livingsocial.com/cities/11-dallas/deals/218774-hour-long-family-photo-session-with-a-25-image-dvd?ref=exmn&amp;aff_id=3220&amp;offer_id=4" target="_blank"><img class="localcom-image" typeof="foaf:Image" src="http://a1.ak.lscdn.net/imgs/4a8d0412-b646-4237-adf1-ce7f6c3c6967/100_q60_.jpg" alt="Offer of the day" /></a><h3><a href="http://www.livingsocial.com/cities/11-dallas/deals/218774-hour-long-family-photo-session-with-a-25-image-dvd?ref=exmn&amp;aff_id=3220&amp;offer_id=4" target="_blank">Hour-Long Family Photo Session with a 25-Image DVD</a></h3>
+<p>While the tourists may be out snapping pics of Fair Park, the Majestic, and Pioneer Square, you know Big D's most photo-worthy...</p>
+</div><ul class="livingsocial-links"><li class="buy-now first"><a href="http://www.livingsocial.com/cities/11-dallas/deals/218774-hour-long-family-photo-session-with-a-25-image-dvd?ref=exmn&amp;aff_id=3220&amp;offer_id=4" target="_blank" class="blue-button">Buy now</a></li><li class="price">$49</li><li class="time-left last"><span class="oqw-clock sprite-oqw"></span>
+ends today</li></ul>  </div>
+
+  </div>
+
+<div id="block-ex_dart-ex_dart_sidebar_editorial_promo" class="block block-ex-dart block-odd aside clearfix">
+      
+  <div class="block-content">
+    <div class="dart-ad dart-ad-300x115" id="dart-ad-7-7-855499965">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=7;pos=7;sz=300x115;kw=;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=7;pos=7;sz=300x115;kw=;ord=855499965?" width="300" height="115" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=7;pos=7;sz=300x115;kw=;ord=");
+  </script>
+    </div>
+  </div>
+
+  </div>
+
+<div id="block-ex_article-article_facebook_block" class="block block-ex-article block-odd aside clearfix">
+      
+  <div class="block-content">
+    <iframe src="http://www.facebook.com/plugins/activity.php?site=examiner.com&amp;width=300&amp;height=350&amp;header=true&amp;colorscheme=light&amp;recommendations=true" scrolling="no" frameborder="0" id="ex-facebook-activity-widget" allowTransparency="true"></iframe>
+<div class="ex-facebook-join-link-wrapper"><a href="http://www.facebook.com/Examinercom" class="ex-facebook-join-link">Join Examiner.com</a> on Facebook</div>
+  </div>
+
+  </div>
+
+<div id="block-ex_dart-ex_dart_sidebar_ad_block_bottom" class="block block-ex-dart block-even aside clearfix">
+      
+  <div class="block-content">
+    <div class="dart-ad dart-ad-300x250" id="dart-ad-4-4-855499965">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/cw/pos4/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=4;pos=4;sz=300x250;kw=;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/cw/pos4/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=4;pos=4;sz=300x250;kw=;ord=855499965?" width="300" height="250" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/cw\/pos4\/article;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=4;pos=4;sz=300x250;kw=;ord=");
+  </script>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+          </div>
+              </div>
+
+                <div class="region region-below-content">
+    <div id="block-ex_article-ex_article_dont_miss" class="block block-ex-article block-odd aside">
+        <h2 class="clearfix block-title">
+      Don't miss...    </h2>
+    
+  <div class="block-content">
+    <ul class="hfeed clearfix">
+
+  <li class="hentry node-teaser-medium">
+    <a href="/movie-in-phoenix/interview-actor-dermot-mulroney-the-grey?cid=PROG-redesign-bottom-dontmiss-1-ExaminerArticle-Dermot" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/012712dermot210.jpg?image=4" alt="Dermot Mulroney" /></a>
+    <p class="entry-summary">Actor Dermot Mulroney talks about 'The Grey' and much more.</p>
+    <h3 class="entry-title"><a href="/celebrity?cid=PROG-redesign-bottom-dontmiss-1-ExaminerArticle-Dermot">See the exclusive Q&amp;A</a></h3>
+  </li>
+
+
+  <li class="hentry node-teaser-medium">
+    <a href="/fashion-in-milwaukee/victoria-s-secret-designer-collection-picture?cid=PROG-redesign-bottom-dontmiss-2-Slideshow-VictoriasSecret" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/012712model210.jpg?image=1" alt="Victoria&#039;s Secret" /></a>
+    <p class="entry-summary">Slideshow: See photos of the Victoria's Secret design collection.</p>
+    <h3 class="entry-title"><a href="/fashion-in-milwaukee/victoria-s-secret-designer-collection-picture?cid=PROG-redesign-bottom-dontmiss-2-Slideshow-VictoriasSecret">12 seductive and sexy shots</a></h3>
+  </li>
+
+
+  <li class="hentry node-teaser-medium">
+    <a href="/tag/celebrity?cid=PROG-redesign-bottom-dontmiss-3-TagPage-CelebrityHegyes" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/horseshack210.jpg?image=7" alt="Robert Hegyes" /></a>
+    <p class="entry-summary">'Welcome Back Kotter' star Robert Hegyes has died.</p>
+    <h3 class="entry-title"><a href="/tag/celebrity?cid=PROG-redesign-bottom-dontmiss-3-TagPage-CelebrityHegyes">Looking back on his career</a></h3>
+  </li>
+
+<li class="hentry node-teaser-medium">
+    <a href="/tag/jan-brewer?cid=PROG-redesign-bottom-dontmiss-4-ExaminerArticle-JanBrewer" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/012612brewer210.jpg?image=6" alt="Jan Brewer and President Obama" /></a>
+    <p class="entry-summary">Gov. Jan Brewer confronted President Obama in AZ. </p>
+    <h3 class="entry-title"><a href="/tag/jan-brewer?cid=PROG-redesign-bottom-dontmiss-4-ExaminerArticle-JanBrewer">See what she said to him</a></h3>
+  </li>
+
+
+
+  <li class="hentry node-teaser-medium">
+    <a href="/tag/football?cid=PROG-redesign-bottom-dontmiss-5-TagPage-NFLPlayoffs" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/011612nfl210.jpg?image=5" alt="Football" /></a>
+    <p class="entry-summary">The Patriots and Giants are heading to the Super Bowl.</p>
+    <h3 class="entry-title"><a href="/tag/football?cid=PROG-redesign-bottom-dontmiss-5-Tagpage-NFLPlayoffs">Playoff recaps and news</a></h3>
+  </li>
+
+  <li class="hentry node-teaser-medium">
+    <a href="/america-inspired?cid=PROG-redesign-bottom-dontmiss-6-TagPage-AmericaInspired" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/011312cari-meyers210.jpg?image=8" alt="America Inspired" /></a>
+    <p class="entry-summary">Your votes will decide who shares $100,000 in prizes.</p>
+    <h3 class="entry-title"><a href="/america-inspired?cid=PROG-redesign-bottom-dontmiss-6-TagPage-AmericaInspired">Read stories and vote now</a></h3>
+  </li>
+
+
+  <li class="hentry node-teaser-medium">
+    <a href="/books?cid=PROG-redesign-bottom-dontmiss-7-TagPage-Books" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/dontown210.jpg" alt="Downton Abbey" /></a>
+    <p class="entry-summary">Can't get enough of 'Downton Abbey'? Get the reading list.</p>
+    <h3 class="entry-title"><a href="/tag/books?cid=PROG-redesign-bottom-dontmiss-7-TagPage-Books">Fill your craving</a></h3>
+  </li>
+
+
+  <li class="hentry node-teaser-medium">
+    <a href="/tag/strange-facts?cid=PROG-redesign-bottom-dontmiss-8-TagPage-StrangeFacts" class="entry-image"><img src="http://cdn2-b.examiner.com/sites/default/files/_cdn/editorial/article_dont_miss/012612ghost210.jpg?image=3" alt="Ghost" /></a>
+    <p class="entry-summary">A man claims a ghost is responsible for beating his wife.</p>
+ <h3 class="entry-title"><a href="/tag/strange-facts?cid=PROG-redesign-bottom-dontmiss-8-TagPage-StrangeFacts">See his strange claim</a></h3>
+  </li>
+
+</ul>  </div>
+
+  </div>
+
+  </div>
+      
+                <div class="region region-above-footer">
+    <div id="block-ex_dart-ex_dart_ncm" class="block block-ex-dart block-even aside">
+      
+  <div class="block-content">
+    <div class="dart-ad dart-ad-728x90" id="dart-ad-14-14-855499965">
+    <noscript class="darts-ad-noscript">
+    <a href="http://ad.doubleclick.net/jump/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=14;pos=14;sz=728x90;kw=;ord=855499965?" target="_blank"><img src="http://ad.doubleclick.net/ad/cdg.examiner2.new-york-ny/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=14;pos=14;sz=728x90;kw=;ord=855499965?" width="728" height="90" alt="" /></a>
+  </noscript>
+    <script type="text/javascript" class="darts-ad-script">
+    dartAdPrepare("http:\/\/ad.doubleclick.net\/adj\/cdg.examiner2.new-york-ny\/;tt=home-based%20business;plc=ny;chn=careers%20%26%20workplace;subc=jobs;sect=jobs;nid=42755906;top=careers%20%26%20workplace;top=jobs;top=selling%20a%20home;top=homestaging;top=interior%20design;top=real%20estate;top=homebuyer;top=mortgage;ed=new-york-ny;uid=1049016;etid=28792;pgtp=article;tile=14;pos=14;sz=728x90;kw=;ord=");
+  </script>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+          </div>
+    <div class="page-shadow-bottom"></div>
+  </div>
+
+  <div id="footer">
+    <div class="footer-background"></div>
+    <div class="limiter clearfix">
+                <div class="region region-footer">
+    <div id="block-ex_blocks-twitter" class="block block-ex-blocks block-fancy block-odd aside">
+      <div class="clearfix block-title">
+            <h2><a href="https://twitter.com/intent/user?screen_name=examinercom"><span class="oqw-twitter-bird sprite-oqw"></span>
+Follow Us</a>Twitter</h2>
+      <div class="shadow"></div>
+          </div>
+  
+  <div class="block-content">
+    <div class="twitter-pull-listing">
+    <ul><li class="first"><p class="tweet-text">Meryl Streep wears Vivienne Westwood fashion SAG Awards 2012 (photos) <a href="http://t.co/oeyrWXq8" rel="nofollow" title="http://t.co/oeyrWXq8">t.co/oeyrWXq8</a></p>
+<div class="tweet-time"><a href="http://twitter.com/examinercom/status/163896021196353536">1 hour ago</a></div>
+</li><li><p class="tweet-text">Will Paul McCartney take his new lounge act for more than a trial spin? <a href="http://t.co/t1mAuu2o" rel="nofollow" title="http://t.co/t1mAuu2o">t.co/t1mAuu2o</a></p>
+<div class="tweet-time"><a href="http://twitter.com/examinercom/status/163878161761832960">2 hours ago</a></div>
+</li><li class="last"><p class="tweet-text">Kyle Chandler at SAG Awards: Life after 'Friday Night Lights' (photos) <a href="http://t.co/9LV0chvn" rel="nofollow" title="http://t.co/9LV0chvn">t.co/9LV0chvn</a></p>
+<div class="tweet-time"><a href="http://twitter.com/examinercom/status/163861459930058752">3 hours ago</a></div>
+</li></ul></div>
+<div class="corner-outline"></div><div class="corner-bottom"></div><div class="shadow-after"></div>  </div>
+
+  </div>
+
+<div class="legal" id="footer-copyright">Careers & Workplace | &copy; 2006-2012 Clarity Digital Group LLC d/b/a <a href="http://www.examiner.com/">Examiner.com</a>.</div>
+<div id="block-ex_featured-ex_featured_item" class="block block-ex-featured block-plain block-even aside">
+      
+  <div class="block-content">
+    <div class="field field-name-featured-image field-type-image field-label-hidden field-bundle-featured_item" class="field field-name-featured-image field-type-image field-label-hidden field-bundle-featured_item"><div class="field-items" class="field-items"><div class="field-item even"><a href="/flower-and-gardening-in-denver"><img typeof="foaf:Image" src="http://cdn2-b.examiner.com/sites/default/files//9c/df/9cdf58467a16f8f7380a3bea2b123183.jpg" width="277" height="221" alt="Denver Gardening Examiner" title="Denver Gardening Examiner" /></a></div></div></div>  </div>
+
+  </div>
+
+<div class="wrapper-about-blocks"><div id="block-ex_blocks-about_examiner" class="block block-ex-blocks block-plain block-odd aside">
+        <h2 class="clearfix block-title">
+      About examiner.com    </h2>
+    
+  <div class="block-content">
+    <p>Examiner.com is the inside source for everything local. We are powered by Examiners, the largest pool of passionate contributors in the world.</p>
+<p>Examiners provide unique and original content to enhance life in your local city wherever that may be. Examiners come from all walks of life and contribute original content to entertain, inform, and inspire.</p>
+  </div>
+
+  </div>
+
+<div id="block-ex_blocks-about" class="block block-ex-blocks block-plain block-odd aside">
+        <h2 class="element-invisible clearfix block-title">
+      About Examiner.com    </h2>
+    
+  <div class="block-content">
+    <ul class="links"><li class="0 first"><a href="http://www.examiner.com/About_Examiner" class="about">Read more about us</a></li><li class="1 last"><a href="http://apply.examiner.com/?editionid=921" class="become_an_examiner">Write for Examiner</a></li></ul>  </div>
+
+  </div>
+
+</div>  </div>
+                      <div class="region region-footer-aside">
+    <div id="block-ex_blocks-connect" class="block block-ex-blocks block-plain block-even aside">
+        <h2 class="element-invisible clearfix block-title">
+      Connect with Examiner.com    </h2>
+    
+  <div class="block-content">
+    <ul class="links"><li class="0 first"><a href="https://www.facebook.com/Examinercom" class="facebook sprite-oqw">Become a fan</a></li><li class="1"><a href="https://twitter.com/examinercom" class="twitter sprite-oqw">Follow us on Twitter</a></li><li class="2"><a href="https://www.linkedin.com/company/examiner.com" class="linkedin sprite-oqw">Connect on LinkedIn</a></li><li class="3"><a href="https://www.examiner.com/rss" class="rss sprite-oqw">View our RSS Feeds</a></li><li class="4 last"><a href="http://blog.examiner.com/" class="blog sprite-oqw">Examiner.com blog</a></li></ul>  </div>
+
+  </div>
+
+<div id="block-ex_blocks-company" class="block block-ex-blocks block-plain block-even aside">
+        <h2 class="clearfix block-title">
+      Company Links    </h2>
+    
+  <div class="block-content">
+    <ul class="links"><li class="0 first"><a href="http://www.examiner.com/Advertise" class="advertise">Advertise with us</a></li><li class="1"><a href="http://www.examiner.com/careers" class="careers" title="">Career opportunities</a></li><li class="2"><a href="http://blog.examiner.com/" class="blog">Examiner.com blog</a></li><li class="3"><a href="http://m.examiner.com" title="">Mobile site</a></li><li class="4"><a href="http://www.examiner.com/rss" class="rss" title="">RSS feeds</a></li><li class="5"><a href="http://www.examiner.com/sitemap" class="sitemap">Sitemap</a></li><li class="6"><a href="http://photos.examiner.com/today.html" title="">Today in photos</a></li><li class="7"><a href="http://www.examiner.com/privacy_policy" class="privacy" title="">Privacy Policy</a></li><li class="8 last"><a href="http://www.examiner.com/Terms_of_Use.html" class="terms" title="">Terms of Use</a></li></ul>  </div>
+
+  </div>
+
+<div id="block-ex_blocks-partners" class="block block-ex-blocks block-plain block-odd aside">
+        <h2 class="clearfix block-title">
+      Partner Links    </h2>
+    
+  <div class="block-content">
+    <ul class="links"><li class="0 first"><a href="http://aegworldwide.com/home.html" class="aeg">AEG Worldwide</a></li><li class="1"><a href="http://www.values.com/" class="values">Foundation for a Better Life</a></li><li class="2"><a href="http://www.nowpublic.com/" class="nowpublic">NowPublic.com</a></li><li class="3 last"><a href="http://www.walden.com/" class="walden" title="">Walden Media</a></li></ul>  </div>
+
+  </div>
+
+  </div>
+          </div>
+  </div>
+</div>
+  <script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_43N-7GFzZwvOn3I6ljlnMabfQiGy5slGU8Va_aQNPiU_179.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _ex_beacon="fdvpzEfqaVvQdfPbQhhbe8%2FyfNeyTpqXJQ4L%2F57rSf4EGyXQMydrZ2tKGkr6uzS3H116gkrOi9ATqADFl4BRvBM6eqNsH3212gcXHwn7zwIFsA4%2BKbvoMfvLqkKA1KUa", _ex_beacon_url="http://beacon.examiner.com";
+$LAB.script("http:\/\/beacon.examiner.com");
+$LAB.script("http:\/\/www.google.com\/cse\/brand?form=cse-search-box&lang=en");
+$LAB.script("http:\/\/connect.facebook.net\/en_US\/all.js#appId=113003962065478&xfbml=1");
+var switchTo5x = true;
+$LAB.script("http:\/\/w.sharethis.com\/button\/buttons.js").wait(function () {Drupal.addShareThis(true);});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_eZyzJcuAcT-bIl87-ivgTDazPGllTXZmsjGk1yclTMA_179.js"></script>
+<script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_Fj8-xzedJDkCqIar4QvEsvOc6_uhc2DGBa8B5Q7FiTA_179.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://cdn2-b.examiner.com/sites/default/files/js/js_jM7B0S_NG0dxnX4eSM2918rrMuwno9dzrvvtBvWmikA_179.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mvt_breadcrumb","theme_token":"XMq0ygGKjUto228Oz7C2EHmYuA9vZWNLYdJgp8xoyuY","js":{"public:\/\/jstools\/sites\/all\/libraries\/LAB.js":1,"public:\/\/jstools\/sites\/all\/libraries\/clickCatcher.min.js":1,"public:\/\/jstools\/sites\/all\/libraries\/framebust.min.js":1,"LABjs.stats":1,"examiner.page_init.labjs":1,"omniture.labjs":1,"comscore.labjs":1,"googleanalytics.labjs":1,"public:\/\/jstools\/sites\/all\/modules\/custom\/ex_dart\/ex-dart-ad-prepare.min.js":1,"0":1,"public:\/\/jstools\/sites\/all\/modules\/custom\/ex_mvt\/scripts\/ex_mvt.control.js":1,"public:\/\/jstools\/misc\/jquery.js":1,"public:\/\/jstools\/misc\/jquery.once.js":1,"public:\/\/jstools\/misc\/drupal.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/jquery_plugin\/tools.expose.min.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/jquery_plugin\/tools.overlay.min.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/jquery_plugin\/tools.overlay.apple.min.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/jquery_plugin\/tools.scrollable.min.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/jquery_plugin\/tools.scrollable.mousewheel.min.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/jquery_plugin\/tools.tooltip.min.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/jquery_plugin\/tools.tooltip.dynamic.min.js":1,"LABjs.header":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/mollom\/mollom.js":1,"public:\/\/jstools\/sites\/all\/modules\/custom\/ex_mobile\/ex_mobile.location.js":1,"public:\/\/jstools\/sites\/all\/modules\/contrib\/fivestar-HEAD\/js\/fivestar.js":1,"examiner.dom_ready.labjs":1,"public:\/\/jstools\/sites\/all\/modules\/custom\/ex_potpourri\/jquery.misc.js":1,"public:\/\/jstools\/sites\/all\/modules\/custom\/ex_potpourri\/misc.js":1,"public:\/\/jstools\/sites\/all\/modules\/custom\/ex_omniture\/ex_omniture.js":1,"googlecse.labjs":1,"facebook.labjs":1,"sharethis.labjs":1,"public:\/\/jstools\/sites\/all\/modules\/custom\/ex_fb_comments\/ex_fb_comments.js":1,"http:\/\/platform.twitter.com\/widgets.js":1,"public:\/\/jstools\/sites\/all\/themes\/x2\/overrides\/contrib\/achievements\/achievements-overlay.js":1,"public:\/\/jstools\/sites\/all\/themes\/base\/js\/misc.js":1,"public:\/\/jstools\/sites\/all\/themes\/base\/js\/nav.js":1,"public:\/\/jstools\/sites\/all\/themes\/base\/js\/base.overlay.js":1,"public:\/\/jstools\/sites\/all\/themes\/base\/js\/base.table.js":1,"public:\/\/jstools\/sites\/all\/themes\/base\/js\/base.form.js":1,"public:\/\/jstools\/sites\/all\/libraries\/jquery.hoverIntent.minified.js":1},"css":{"sites\/all\/themes\/framework\/styles\/normalize.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/twitter_pull\/twitter-pull-listing.css":1,"sites\/all\/modules\/custom\/ex_upload\/ex_upload.css":1,"sites\/all\/themes\/x2\/styles\/x2.layout.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.skin.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.typography.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.blocks.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.forms.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.buttons.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.overlay.css.less":1,"sites\/all\/themes\/x2\/overrides\/core\/node\/node.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/contrib\/fivestar\/fivestar.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/contrib\/achievements\/achievements.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/contrib\/masquerade\/masquerade.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_taxonomy\/ex_taxonomy_superchannel.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_dart\/ex_dart.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_user\/ex_user.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_blocks\/ex_blocks.footer.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_blocks\/ex_blocks.menu.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_blocks\/ex_blocks.twitter.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_blocks\/ex_blocks.my-tools.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_blocks\/ex_blocks.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_carousel\/ex_carousel.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_comment\/ex_comment.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_dart\/ex_dart.traffic-cop.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_homepage\/ex_homepage.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_reuters\/ex_reuters.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_sitemaps\/ex_sitemaps.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_upload\/ex_upload.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_activity\/ex_activity.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_featured\/ex_featured.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_article\/ex_article.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_title\/ex_title.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_weather\/ex_weather.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_place_picker\/ex_place_picker.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_profile\/ex_profile.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_insider_deals\/ex_insider_deals.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_taxonomy\/ex_taxonomy.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_super_channel\/ex_super_channel.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_place\/ex_place.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/multivote_poll\/multivote_poll.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_contextual\/ex_contextual.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/localcom\/localcom.theme.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_content\/ex_content.theme.css.less":1,"sites\/all\/themes\/x2\/special_projects\/america_inspired\/ai.theme.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.content.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.print-preview.css.less":1,"sites\/all\/themes\/base\/css\/reset.css.less":1,"sites\/all\/themes\/base\/css\/layout.css.less":1,"sites\/all\/themes\/base\/css\/corners.css.less":1,"sites\/all\/themes\/base\/css\/buttons.css.less":1,"sites\/all\/themes\/base\/css\/sprite.css.less":1,"sites\/all\/themes\/base\/css\/forms.css.less":1,"sites\/all\/themes\/base\/css\/typography.css.less":1,"sites\/all\/themes\/base\/css\/misc.css.less":1,"sites\/all\/themes\/base\/css\/blocks.css.less":1,"sites\/all\/themes\/base\/css\/content.css.less":1,"sites\/all\/themes\/base\/css\/article.css.less":1,"sites\/all\/themes\/base\/css\/comment.css.less":1,"sites\/all\/themes\/base\/css\/user-profiles.css.less":1,"sites\/all\/themes\/base\/css\/edition-homepages.css.less":1,"sites\/all\/themes\/base\/css\/temp.css.less":1,"sites\/all\/themes\/base\/css\/nodes.css.less":1,"sites\/all\/themes\/base\/css\/node-media.css.less":1,"sites\/all\/themes\/base\/css\/node-form-page.css.less":1,"sites\/all\/themes\/base\/css\/replacements.css.less":1,"sites\/all\/themes\/base\/css\/fivestar.css.less":1,"sites\/all\/themes\/mvt_breadcrumb\/style-control.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.print.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.ie-lte9.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_article\/ex_article.lte-ie9.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.ie-lte8.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_blocks\/ex_blocks.ie-lte8.css.less":1,"sites\/all\/themes\/x2\/styles\/x2.ie-lte7.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_blocks\/ex_blocks.ie-lte7.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_carousel\/ex_carousel.lte-ie7.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_homepage\/ex_homepage.ie-lte7.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_article\/ex_article.lte-ie7.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_upload\/ex_upload.lte-ie7.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_custom_rss\/ex_custom_rss.ie-lte7.css.less":1,"sites\/all\/themes\/x2\/overrides\/custom\/ex_taxonomy\/ex_taxonomy.ie-lte7.css.less":1,"sites\/all\/themes\/x2\/overrides\/contrib\/achievements\/achievements.lte-ie7.css.less":1,"sites\/all\/themes\/x2\/special_projects\/america_inspired\/ai.ie-lte7.css.less":1,"sites\/all\/themes\/base\/css\/ie-lte7.css.less":1}},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"twitterTitle":"Another Home-Based Business Idea: If You Have the Eye","edition":{"name":"Dallas","tid":"956","vid":"6","dartname":"dallas-tx","country":"US","path_fragment":"dallas","province":"TX","zip":"75201"},"bitlyURL":"http:\/\/api.bit.ly\/v3\/shorten?longUrl=${url}\u0026login=examinercom\u0026apiKey=R_9c4be35d431cf00eede3a5dc5049c6d1\u0026client=bitly-javascript-api\u0026callback=?","shareThis":{"path":"http:\/\/www.examiner.com\/home-based-business-in-new-york\/another-home-based-business-idea","publisher":"0ff2568e-0426-443f-b27c-250b9771cc40"}});
+//--><!]]>
+</script>
+    <div class="region region-page-bottom">
+    <script type="text/javascript">var bt = {"examiner":{"pageName":"Examiner Article","location":"","pageTitle":"New York:Careers & Workplace:Jobs:another home-based business idea: if you have the eye","pageType":"article","channel":"Careers & Workplace","city":"Dallas","state":"TX","keywords":["Careers & Workplace","Jobs","Selling a Home","homestaging","interior design","Real Estate","Homebuyer","mortgage"],"place":"Dallas","section":"Jobs","topic":"home-based business","writeTopic":"NY Home-based Business Examiner","headline":"Another Home-Based Business Idea: If You Have the Eye","loginStatus":false}};</script>
+<!-- start brighttag beacon -->
+<script src="//s.btstatic.com/tag.js">
+{"site":"k1CElgt"}</script>
+<noscript>
+  <iframe src="//s.thebrighttag.com/iframe?c=k1CElgt" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- end brighttag -->
+<!-- start comscore beacon -->
+<noscript>
+  <img src="http://b.scorecardresearch.com/b?c1=2&amp;c2=6036472&amp;cv=1.3&amp;cj=1&amp;c4=http%3A//www.examiner.com/home-based-business-in-new-york/another-home-based-business-idea" width="0" height="0" alt="" />
+</noscript>
+<!-- end comscore -->
+<!-- start googleanalytics beacon -->
+<!-- end googleanalytics -->
+<!-- start omniture SiteCatalyst beacon: code version H.21 Copyright 1997-2010 Omniture, Inc. More info available at http://www.omniture.com -->
+<noscript>
+  <div><a href="http://www.omniture.com" title="Web Analytics">
+    <img src="http://stats.examiner.com/b/ss/examinercom/1/H.21--NS/0/3746088" height="1" width="1" alt="" />
+  </a></div>
+</noscript><!--/DO NOT REMOVE/-->
+<!-- End omniture beacon ?> -->
+<!-- start examiner beacon -->
+<noscript><div id="ex_beacon"><img src="http://beacon.examiner.com/beacon.gif?guid=fdvpzEfqaVvQdfPbQhhbe8%2FyfNeyTpqXJQ4L%2F57rSf4EGyXQMydrZ2tKGkr6uzS3H116gkrOi9ATqADFl4BRvDXVT6Rueai5FEdrtq%2FlJ56rozkBVWNmH5sBRsWcmtXe" style="display:none" width="0" height="0" alt=""/></div></noscript>
+<!-- end examiner beacon -->
+  </div>
+  <div id="FB_HiddenIFrameContainer" class="element-invisible"></div>
+</body>
+</html>
