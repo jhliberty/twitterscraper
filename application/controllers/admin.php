@@ -1,10 +1,20 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Admin extends CI_Controller {
+  
+  public function __construct()
+  {
+    parent::__construct();
+    $this->load->helper('url');
+  }
 
 	public function index()
 	{
-		$this->load->view('welcome_message');
+	  $this->load->helper('html');
+	  $this->load->helper('url');
+	  $pics = R::find('picture');
+	  $data['pics'] = $pics;
+    $this->load->view('dashboard', $data);
 	}
 	
 	public function speak()
@@ -19,19 +29,42 @@ class Admin extends CI_Controller {
 	  print_r($jake);
 	}
 	
-	public function say()
+	public function say($filename)
 	{
-	  $person = R::findOne('person', "name = 'Jake'");
+	  $person = R::findOne('picture', "filename = '$filename'");
 	  $result = $person->export();
+	  echo $person;
 	  print_r($result);
 	}
 	
-	public function update($name)
+	public function favorite($filename)
 	{
-	  $person = R::findOne('person', "name = '$name'");
-	  $person->hair_color = "Blue";
-	  R::store($person);
-	  echo "Successfully updated";
+	  $pic = R::findOne('picture', "filename = '$filename'");
+	  if($pic['favorite'] == true)
+	  {
+	    $pic->favorite = false;
+	  }
+	  else
+	  {
+	    $pic->favorite = true;
+	  }
+	  R::store($pic);
+    redirect('admin', 'location'); 
+	}
+	
+	public function mark_spam($filename)
+	{
+	  $pic = R::findOne('picture', "filename = '$filename'");
+	  $pic->spamcount = $pic->spamcount+1;
+	  R::store($pic);
+	  redirect('admin', 'location');
+	}
+	
+	public function delete($filename)
+	{
+	  $pic = R::findOne('picture', "filename = '$filename'");
+	  R::trash($pic);
+	  redirect('admin', 'location');
 	}
 }
 
