@@ -45,16 +45,25 @@ class Connect extends CI_Controller {
       }
       else {
         echo " <b>YES!</b> <br/>";
-        $this->_createThumbnail("$name");
-        $pic = R::dispense('picture');        
-        $pic->filename = "$name"."_thumb";
-        $pic->url = "$uri";
-        $pic->favorite = false;
-        R::store($pic);
-        unlink("uploads/$name");
-        $this->image_lib->clear();
+        $test = "$name"."_thumb";
+        $exist = R::findOne('picture', "filename = '$test'");        
+        if(empty($exist))
+        {
+          $this->_createThumbnail("$name");
+          $pic = R::dispense('picture');        
+          $pic->filename = "$name"."_thumb";
+          $pic->url = "$uri";
+          $pic->favorite = false;
+          R::store($pic);
+          unlink("uploads/$name");
+          $this->image_lib->clear();
+        }
+        else{
+          echo "Image already imported. <br/>";
+          unlink("uploads/$name");
+        }
+       }
       }
-     }
     }
   }
   
