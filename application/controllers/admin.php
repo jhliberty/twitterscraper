@@ -16,27 +16,7 @@ class Admin extends CI_Controller {
 	  $data['pics'] = $pics;
     $this->load->view('dashboard', $data);
 	}
-	
-	public function speak()
-	{
-	  $jake = R::dispense('person');
-	  $jake->name = "Jake Sir";
-	  $jake->hair_color = "Black";
-	  $jake->is_male = true;
-	  $jake->age = 27;
-	  R::store($jake);
-	  
-	  print_r($jake);
-	}
-	
-	public function say($filename)
-	{
-	  $person = R::findOne('picture', "filename = '$filename'");
-	  $result = $person->export();
-	  echo $person;
-	  print_r($result);
-	}
-	
+		
 	public function favorite($filename)
 	{
 	  $pic = R::findOne('picture', "filename = '$filename'");

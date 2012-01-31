@@ -14,23 +14,6 @@ class Connect extends CI_Controller {
 
   public function index() {
     
-echo 'Yesterday: '. date('Y-m-d', strtotime('-1 day')) ."\n";
-  }
-  
-  function _createThumbnail($fileName) {
-    $config['image_library'] = 'gd2';
-    $config['source_image'] = 'uploads/' . $fileName;
-    $config['create_thumb'] = TRUE;
-    $config['maintain_ratio'] = TRUE;
-    $config['width'] = 75;
-    $config['height'] = 75;
-
-    $this->load->library('image_lib', $config);
-    if(!$this->image_lib->resize()) echo $this->image_lib->display_errors();
-  }
-  
-  public function auth()
-  {
     $consumer = $this->config->item("twitter_consumer_token");
     $consumer_secret = $this->config->item("twitter_consumer_secret");
     $access_token = $this->config->item("twitter_access_token");
@@ -74,5 +57,16 @@ echo 'Yesterday: '. date('Y-m-d', strtotime('-1 day')) ."\n";
      }
     }
   }
+  
+  function _createThumbnail($fileName) {
+    $config['image_library'] = 'gd2';
+    $config['source_image'] = 'uploads/' . $fileName;
+    $config['create_thumb'] = TRUE;
+    $config['maintain_ratio'] = TRUE;
+    $config['width'] = 75;
+    $config['height'] = 75;
 
+    $this->load->library('image_lib', $config);
+    if(!$this->image_lib->resize()) echo $this->image_lib->display_errors();
+  }
 }
